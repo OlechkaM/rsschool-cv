@@ -1,2 +1,3 @@
-https://OlechkaM.github.io/rsschool-cv/cv
-https://OlechkaM.github.io/rsschool-cv/
+# rsschool-cv
+https://github.com/OlechkaM/rsschool-cv.git
+https://github.com/OlechkaM/rsschool-cv.git
