@@ -1,1 +1,71 @@
+@font-face {
+    font-family: PTSans-Regular, sans-serif;
+    src: url("PTSans-Regular.ttf");
+    font-weight: 300px;
+}
 
+html {
+    scroll-behavior: smooth;
+}
+
+* {
+    box-sizing: border-box;
+}
+.nav-item {
+    font-size: 25px;
+    font-weight: 700;
+}
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+}
+
+.nav-link {
+    color: rgba(10, 82, 5, 0.836);
+    padding: 0 20px;
+    line-height: 50px;
+}
+
+header {
+    border: 1px solid #cba2f9;
+    background-color: #cba2f9;
+}
+
+main {
+    border: 1px solid rgb(32, 215, 239);
+}
+hr {
+    border: none;
+    height: 20px;
+    background-color: #d8c0f4;
+}
+footer {
+    border: 1px solid #cba2f9;
+    background-color: #cba2f9;
+}
+
+body {
+    min-height: 100vh;
+    padding: 0;
+    margin: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        font-family: 'PTSans-Regular', sans-serif;
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 1.5;
+
+    }
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.section-title {
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #a56be8;
+  }
